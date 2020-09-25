@@ -72,11 +72,11 @@ flutter:
   #       - asset: fonts/Schyler-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
-     - family: NotoSans
-      fonts:
-      - asset: fonts/Noto Sans KR.ttf
-      - asset: fonts/Noto Sans KR_Regular.ttf
-       weight: 700
+  #- family: NotoSans
+  #fonts:
+  #- asset: fonts/Noto Sans KR.ttf
+  #- asset: fonts/Noto Sans KR_Regular.ttf
+  #weight: 700
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
